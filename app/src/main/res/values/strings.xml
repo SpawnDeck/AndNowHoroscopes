@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">And Now, Horoscopes</string>
+    <string name="getHoroscope">Get Horoscope</string>
+    <string name="share">Share</string>
+    <string name="job_scheduled_successfully">Job did not schedule, try again</string>
+    <string name="sign">Sign</string>
+    <string name="change_sign">Change Zodiac Sign</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

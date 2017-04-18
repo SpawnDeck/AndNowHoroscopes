@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/id_aries" android:title="Aries"></item>
+        <item android:id="@+id/id_taurus" android:title="Taurus"></item>
+        <item android:id="@+id/id_gemini" android:title="Gemini"></item>
+        <item android:id="@+id/id_cancer" android:title="Cancer"></item>
+        <item android:id="@+id/id_leo" android:title="Leo"></item>
+        <item android:id="@+id/id_virgo" android:title="Virgo"></item>
+        <item android:id="@+id/id_libra" android:title="Libra"></item>
+        <item android:id="@+id/id_scorpio" android:title="Scorpio"></item>
+        <item android:id="@+id/id_sagittarius" android:title="Sagittarius"></item>
+        <item android:id="@+id/id_capricorn" android:title="Capricorn"></item>
+        <item android:id="@+id/id_aquarius" android:title="Aquarius"></item>
+        <item android:id="@+id/id_pisces" android:title="Pisces"></item>
+
+    </group>
+
+</menu>
